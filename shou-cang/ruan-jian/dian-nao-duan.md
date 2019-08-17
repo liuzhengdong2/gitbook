@@ -2,7 +2,7 @@
 
 | 软件 | 描述 | 下载地址 |
 | :--- | :--- | :--- |
-| SSR | 翻墙软件解压密码123 | [点击下载](https://www.lanzous.com/i5mt04f) |
+| WIN-SSR | 翻墙软件解压密码123 | [点击下载](https://www.lanzous.com/i5mt04f) |
 |  |  |  |
 
 
