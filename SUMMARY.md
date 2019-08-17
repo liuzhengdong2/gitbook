@@ -5,5 +5,6 @@
   * [Rust](xue-xi-ji-lei/rust.md)
 * [收藏](shou-cang/README.md)
   * [软件](shou-cang/ruan-jian/README.md)
+    * [手机端](shou-cang/ruan-jian/shou-ji-duan.md)
     * [电脑端](shou-cang/ruan-jian/dian-nao-duan.md)
 
