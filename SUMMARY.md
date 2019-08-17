@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [介绍](README.md)
+* [学习积累](xue-xi-ji-lei/README.md)
+  * [Rust](xue-xi-ji-lei/rust.md)
+* [收藏](shou-cang.md)
 
